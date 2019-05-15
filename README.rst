@@ -10,11 +10,11 @@
    :target: https://codeclimate.com/github/tanayseven/http_quest_e2e/maintainability
    :alt: Maintainability
 
-.. image:: https://img.shields.io/github/license/tanayseven/http_quest_e2e.svg
+.. image:: https://img.shields.io/github/license/tanayseven/http_quest_e2e.svg?cacheSeconds=86400
     :target: https://github.com/tanayseven/http_quest_e2e/blob/master/LICENSE.txt
     :alt: license
 
-.. image:: https://img.shields.io/github/repo-size/tanayseven_e2e/http_quest.svg
+.. image:: https://img.shields.io/github/repo-size/tanayseven_e2e/http_quest.svg?cacheSeconds=86400
     :target: https://travis-ci.org/tanayseven/http_quest_e2e
     :alt: GitHub repo size in bytes
 
